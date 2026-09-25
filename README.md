@@ -3,6 +3,10 @@
 A beginner-friendly skincare website that helps users identify their skin type
 through an interactive quiz and recommends suitable products.
 
+## Live Website
+
+https://priyausman.github.io/glowguide-website/
+
 ## Features
 
 - Skin type guide (Normal, Dry, Oily, Combination, Sensitive)
@@ -14,7 +18,7 @@ through an interactive quiz and recommends suitable products.
 
 - HTML, CSS, Vanilla JavaScript (no frameworks, no backend)
 
-## How to Run
+## How to Run Locally
 
 1. Keep all three files (`index.html`, `style.css`, `script.js`) in the same folder — they need each other to work
 2. Double-click `index.html` — it opens in any browser
